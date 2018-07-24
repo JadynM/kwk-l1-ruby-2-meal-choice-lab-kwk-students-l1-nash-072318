@@ -9,6 +9,6 @@ end
 puts lunch 
 
 def dinner(food = "salmon")
-  "Evening id the best time for #{food}"
+  "Evening is the best time for #{food}"
 end 
 puts dinner
