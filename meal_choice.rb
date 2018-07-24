@@ -8,3 +8,6 @@ def lunch(food = "grilled cheese")
 end 
 puts lunch 
 
+def dinner(food = "salmon")
+  ""
+
